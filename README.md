@@ -45,17 +45,3 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akxsh65&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akxsh65&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akxsh65&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashsivaprasath/?originalSubdomain=in)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.sivaprasath@gmail.com)

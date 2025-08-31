@@ -1,19 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Akxsh65/Akxsh65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: Exploring full-stack development, data science, machine learning, and AI integration.
-- 🌱 I’m currently learning: technologies and concepts related to React, Node.js, Flask, MongoDB, Google Cloud Services, Data Science, and Machine Learning.
-- 👯 I’m looking to collaborate on: Projects involving scalable web applications, data pipelines, machine learning integration, and cloud deployment solutions.
-- 🤔 I’m looking for help with: Integrating machine learning models with web interfaces, optimizing cloud deployments, and handling real-time data processing and visualization.
-
-
-- 😄 Pronouns: He/Him
-
--->
 ## 🚀 Tech Stack
 
 **Frontend:**
@@ -28,7 +13,6 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-
 **Systems Programming:**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,8 +24,7 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-
----
-
+**Machine Learning / Deep Learning:**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
